@@ -32,15 +32,15 @@ MySQL数据库？ 自己写的东西要保留下去，数据就必须安全。�
 
 *   容器部署
 
-![](http://oss-blog.arvintian.cn/2018/09/2018-09-02-132933%E7%9A%84%E5%B1%8F%E5%B9%95%E6%88%AA%E5%9B%BE.png?x-oss-process=image/resize,m_fill,w_1024,h_145)
+![](https://oss-blog.arvintian.cn/2018/09/2018-09-02-132933%E7%9A%84%E5%B1%8F%E5%B9%95%E6%88%AA%E5%9B%BE.png?x-oss-process=image/resize,m_fill,w_1024,h_145)
 
 *   对象存储
 
-![](http://oss-blog.arvintian.cn/2018/09/2018-09-02-133140%E7%9A%84%E5%B1%8F%E5%B9%95%E6%88%AA%E5%9B%BE.png?x-oss-process=image/resize,m_fill,w_1024,h_366)
+![](https://oss-blog.arvintian.cn/2018/09/2018-09-02-133140%E7%9A%84%E5%B1%8F%E5%B9%95%E6%88%AA%E5%9B%BE.png?x-oss-process=image/resize,m_fill,w_1024,h_366)
 
 *   写文章
 
-![](http://oss-blog.arvintian.cn/2018/09/2018-09-02-133003%E7%9A%84%E5%B1%8F%E5%B9%95%E6%88%AA%E5%9B%BE.png?x-oss-process=image/resize,m_fill,w_1024,h_491)
+![](https://oss-blog.arvintian.cn/2018/09/2018-09-02-133003%E7%9A%84%E5%B1%8F%E5%B9%95%E6%88%AA%E5%9B%BE.png?x-oss-process=image/resize,m_fill,w_1024,h_491)
 
 总结
 --
